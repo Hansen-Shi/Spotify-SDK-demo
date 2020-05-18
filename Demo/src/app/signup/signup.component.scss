@@ -1,8 +1,14 @@
 .container{
-    width: 50%;
+    width: 66%;
 }
 
 .btn{
-    position: relative;
+    position: ABSOLUTE;
     right: -17rem;
+}
+
+.signup-test{
+  z-index: 1;
+  position:relative;
+  top:-60rem;
 }
