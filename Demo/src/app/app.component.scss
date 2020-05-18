@@ -1,6 +1,17 @@
 .navbar{
     background: rgb(0, 0, 0, .6)
 }
+#cat{
+  position: relative;
+  left: 45rem;
+  bottom: -5rem;
+}
+
+#otherCat{
+  position: relative;
+  left: 110rem;
+  bottom: 4rem;
+}
 .navbar-expand img{
     height: 4rem;
 }

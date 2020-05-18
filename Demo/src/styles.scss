@@ -1,6 +1,12 @@
-body{
-    background-image: url('../src/assets/background.png');
-    background-repeat: no-repeat;
-    background-position-x: center;
-    background-position-y: -15rem;
+body,
+html {
+    height: 100%;
+}
+
+.bg {
+  background-image: url('../src/assets/background.png');
+  height:100%;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size:cover;
 }
